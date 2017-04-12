@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="g1_header">Android Application Development Basics.</string>
+    <string name="g1q1">What file format is used to define activity layout?</string>
+    <string name="g1q1a1">docx</string>
+    <string name="g1q1a2">csv</string>
+    <string name="g1q1a3">xml</string>
+    <string name="g1q1a4">mp3</string>
+    <string name="g1q2">What programing language is used natively to develop android application?</string>
+    <string name="g1q2a1">pascal</string>
+    <string name="g1q2a2">cobol</string>
+    <string name="g1q2a3">java</string>
+    <string name="g1q2a4">and++</string>
+    <string name="g1q3">What the acronym IDE stands for?</string>
+    <string name="g1q3_hint">Enter here</string>
+    <string name="g2_header">Layout structuture.</string>
+    <string name="g2q1">What view groups can be used in an android application construction?</string>
+    <string name="g2q1a1">PlainLayout</string>
+    <string name="g2q1a2">LinearLayout</string>
+    <string name="g2q1a3">MaterialDesign</string>
+    <string name="g2q1a4">RelativeLayout</string>
+    <string name="g2q2">What view can be used in an android application construction?</string>
+    <string name="g2q2a1">Button</string>
+    <string name="g2q2a2">TextView</string>
+    <string name="g2q2a3">Toast</string>
+    <string name="g2q2a4">OverView</string>
+    <string name="g2q3">What layout container is dedicated to handle a content larger than the physical display situation?</string>
+    <string name="g2q3_hint">Enter here</string>
+    <string name="g3_header">Code structure.</string>
+    <string name="g3q1">What is the name of code construct that defines data and behavior of an application activity?</string>
+    <string name="g3q1a1">Operator</string>
+    <string name="g3q1a2">Method</string>
+    <string name="g3q1a3">Class</string>
+    <string name="g3q1a4">Constructor</string>
+    <string name="g3q2">Which symbols are suitable for conditional statements?</string>
+    <string name="g3q2a1">++</string>
+    <string name="g3q2a2">&gt;&gt;</string>
+    <string name="g3q2a3">!=</string>
+    <string name="g3q2a4">==</string>
+    <string name="g3q3">What is the camel notation of \'ACME address 1\' variable?</string>
+    <string name="g3q3_hint">Enter here</string>
+</resources>
